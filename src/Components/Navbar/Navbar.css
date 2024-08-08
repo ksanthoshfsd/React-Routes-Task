@@ -1,0 +1,16 @@
+ul a {
+    margin: 25px;
+    color: rgb(0, 195, 255);
+    text-decoration: none;
+    font-weight: bold;
+  }
+.abc {
+  color:rgb(0, 255, 255) !important;
+  font-size: x-large !important;
+  font-weight: bolder;
+}
+.xyz{
+  background-color:rgb(100, 125, 143) !important;
+  padding: 20px !important;
+  margin: 10px;
+}
